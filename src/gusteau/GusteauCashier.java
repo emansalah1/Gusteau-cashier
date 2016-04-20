@@ -1,4 +1,4 @@
-package gusteau.cashier;
+package gusteau;
 
 public class GusteauCashier {
     public static void main(String[] args) {
